@@ -11,11 +11,11 @@ Testing Quiz using cypress
 </ol>
 
 ## Usage
-Shown in video
+Shown in video. You need an env file in the server folder which hold the mongodb server.
 
 ## License
 Distributed under the MIT. See https://opensource.org/license/mit for more information
 
 
 ## Video
-
+https://www.youtube.com/watch?v=XTYoh_b9d4M
